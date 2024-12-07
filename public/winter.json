@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Winter Warmth Drive - Dhaka",
+      "image": "https://i.ibb.co/vkT0hms/winter3.jpg",
+      "description": "A campaign to distribute warm clothes and blankets to underprivileged communities in Dhaka.",
+      "status": "Ongoing",
+      "contactInfo": "+8801234567890",
+      "division": "Dhaka"
+    },
+    {
+      "id": 2,
+      "title": "Sylhet Winter Relief",
+      "image": "https://i.ibb.co/J20p6Cf/winter6.jpg",
+      "description": "Providing essential winter clothing to those in need in the Sylhet region.",
+      "status": "Upcoming",
+      "contactInfo": "+8801234567891",
+      "division": "Sylhet"
+    },
+    {
+      "id": 3,
+      "title": "Chattogram Blanket Distribution",
+      "image": "https://i.ibb.co/GF86j6J/img1.jpg",
+      "description": "Ensuring warmth for the homeless by distributing blankets in Chattogram.",
+      "status": "Completed",
+      "contactInfo": "+8801234567892",
+      "division": "Chattogram"
+    },
+    {
+      "id": 4,
+      "title": "Rajshahi Winter Care",
+      "image": "https://i.ibb.co/ZG3Bwtw/img2.jpg",
+      "description": "Helping families in Rajshahi face the cold winter with warm clothing.",
+      "status": "Ongoing",
+      "contactInfo": "+8801234567893",
+      "division": "Rajshahi"
+    },
+    {
+      "id": 5,
+      "title": "Barishal Cold Relief",
+      "image": "https://i.ibb.co/LztzCSd/img3.jpg",
+      "description": "Distributing sweaters and scarves to underprivileged children in Barishal.",
+      "status": "Upcoming",
+      "contactInfo": "+8801234567894",
+      "division": "Barishal"
+    },
+    {
+      "id": 6,
+      "title": "Khulna Warmth Campaign",
+      "image": "https://i.ibb.co/q5JYwpg/img4.jpg",
+      "description": "Supporting the Khulna region with donations of winter essentials.",
+      "status": "Completed",
+      "contactInfo": "+8801234567895",
+      "division": "Khulna"
+    },
+    {
+      "id": 7,
+      "title": "Mymensingh Winter Support",
+      "image": "https://i.ibb.co/5cTxSzP/img5.webp",
+      "description": "Reaching out to rural areas in Mymensingh with much-needed winter supplies.",
+      "status": "Ongoing",
+      "contactInfo": "+8801234567896",
+      "division": "Mymensingh"
+    },
+    {
+      "id": 8,
+      "title": "Rangpur Winter Aid",
+      "image": "https://i.ibb.co/rcDm5vg/img6.webp",
+      "description": "Bringing relief to impoverished communities in Rangpur during winter.",
+      "status": "Ongoing",
+      "contactInfo": "+8801234567897",
+      "division": "Rangpur"
+    }
+  ]
+  
